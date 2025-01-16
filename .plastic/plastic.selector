@@ -1,0 +1,4 @@
+repository "harvest-simulation-ar@littleamaterasu@cloud"
+  path "/"
+    br "/main"
+    co "/main"
